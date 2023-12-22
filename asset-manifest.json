@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EDYODAYOUTUBE/static/css/main.abf91bc5.css",
+    "main.js": "/EDYODAYOUTUBE/static/js/main.e6846e34.js",
+    "static/js/787.d4aba7ab.chunk.js": "/EDYODAYOUTUBE/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/EDYODAYOUTUBE/index.html",
+    "main.abf91bc5.css.map": "/EDYODAYOUTUBE/static/css/main.abf91bc5.css.map",
+    "main.e6846e34.js.map": "/EDYODAYOUTUBE/static/js/main.e6846e34.js.map",
+    "787.d4aba7ab.chunk.js.map": "/EDYODAYOUTUBE/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf91bc5.css",
+    "static/js/main.e6846e34.js"
+  ]
+}
